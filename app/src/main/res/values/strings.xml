@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Garage</string>
+    <string name="garage_title">Garage</string>
+    <string name="stat_speed">Speed</string>
+    <string name="stat_handling">Handling</string>
+    <string name="stat_acceleration">Acceleration</string>
+    <string name="select_vehicle">Select Vehicle</string>
+    <string name="vehicle_selected">Vehicle Selected</string>
+</resources>

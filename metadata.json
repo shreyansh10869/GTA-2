@@ -1,0 +1,6 @@
+{
+  "name": "Garage",
+  "description": "Car garage and showroom featuring vehicle stats, selectable models, and smooth animations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
