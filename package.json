@@ -1,0 +1,12 @@
+{
+  "name": "garage-3d-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D Vehicle Physics & Ultra-Realistic Graphics Benchmark (Android + Three.js/Cannon-es WebGL2)",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "./gradlew assembleDebug --no-daemon",
+    "lint": "node --check server.js"
+  }
+}
